@@ -107,20 +107,23 @@ The changes made can also be seen on the remote host, in the var/log/apt/history
 <img src="https://i.imgur.com/rfukXeA.png" height="80%" width="80% alt="Ansible steps"/>
 <br />
 <br />
-As per below image, the IP has been changed and it is now static  <br/>
-<img src="https://i.imgur.com/AOi74kF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>What happens when you implement a change that’s already been made:</b>  <br/>
+<img src="https://i.imgur.com/6i35DSa.png" height="80%" width="80% alt="Ansible steps"/><br/>
+ <b> /var/log/apt/history.log </b> <br/>
+ <img src="https://i.imgur.com/200qmuG.png" height="80%" width="80% alt="Ansible steps"/>
 <br />
 <br />
-Step 5: Manually download the installer and run  <br/>
-<img src="https://i.imgur.com/EqxBoEv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/1XupHvO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/eyUnELp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/V3W9neV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/74s0yY2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 8: WRITING A PLAYBOOK  <br/>
+<img src="https://i.imgur.com/DaYQBGI.png" height="80%" width="80% alt="Ansible steps"/>
+<img src="https://i.imgur.com/NQsW95L.png" height="80%" width="80% alt="Ansible steps"/><br/>
+ <b> /var/log/apt/history.log shows this: </b> <br/>
+ <img src="https://i.imgur.com/ylS1b8f.png" height="80%" width="80% alt="Ansible steps"/>
 <br />
 <br />
-Step 7: After successful installation, the admin password will be provided: (to use for web interface)  <br/>
-<img src="https://i.imgur.com/WkbCH4S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 8: WRITING A PLAYBOOK TO INSTALL ZABBIX AGENT  <br/>
+<img src="https://i.imgur.com/lGk7bXy.png" height="80%" width="80% alt="Ansible steps"/>
+<img src="https://i.imgur.com/9WlhyXU.png" height="80%" width="80% alt="Ansible steps"/>
+<img src="https://i.imgur.com/leYhiQS.png" height="80%" width="80% alt="Ansible steps"/>
 </p>
 
 <!--
