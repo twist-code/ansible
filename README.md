@@ -12,16 +12,12 @@ Ansible works by connecting to nodes (clients, servers, or whatever you're confi
 
 <h2>Skills Obtained</h2>
 
-- <b>DNS & IP Addressing Understanding:</b> Knowledge the role of DNS servers, DNS resolution process and IP role in networking.
+- <b>Provisioning:</b> Automating the setup of new servers and infrastructure components, ensuring they are configured.
 - <b>System Administration:</b>  Installing and configuring software on a server, likely on a Linux-based system.
-- <b>Command-Line Proficiency:</b> Enhanced ability to use the command line for system management tasks.
-- <b>Ad Blocking:</b> The methods used to block advertisements and unwanted domains at the network level.
-- <b>Malware and Phishing Prevention:</b> Preventing access to malicious sites and improve overall network security.
-- <b>Diagnosing Network Issues:</b> Identifying and resolving issues related to DNS and general network connectivity.
-- <b>Data Analysis:</b> Analyze logs to identify patterns, blocked domains, and potential security threats. Reading and interpreting system and network logs to troubleshoot problems.
-- <b>System Optimization:</b> Optimizing system performance by identifying and resolving bottlenecks or misconfigurations.
-- <b>End-User Training:</b> Ability to explain how the Pi-Hole works and its benefits to non-technical users.
-- <b>Planning and Execution:</b> Skills in planning and executing a technical project from start to finish.
+- <b>Configuration management:</b> Maintaining consistent configurations across multiple systems, making it easy to enforce desired states and ensure all systems are configured correctly.
+- <b>Application Deployment:</b> Simplifying the deployment process of applications by automating the steps involved in installing and configuring dependencies.
+- <b>Continuous Delivery/Continuous Integration (CI/CD):</b> Integrating with CI/CD pipelines to automate the deployment of applications and updates, ensuring rapid and reliable delivery of software changes.
+- <b>Security Automation:</b> Automating security tasks such as applying patches, updating configurations to comply with security policies, and conducting regular security audits.
 
 <h2>Utilities Used</h2>
 
