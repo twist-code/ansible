@@ -124,6 +124,10 @@ Step 8: WRITING A PLAYBOOK TO INSTALL ZABBIX AGENT  <br/>
 <img src="https://i.imgur.com/lGk7bXy.png" height="80%" width="80% alt="Ansible steps"/>
 <img src="https://i.imgur.com/9WlhyXU.png" height="80%" width="80% alt="Ansible steps"/>
 <img src="https://i.imgur.com/leYhiQS.png" height="80%" width="80% alt="Ansible steps"/>
+
+<br />
+
+ <h1 align="center">THANK YOU</h1>
 </p>
 
 <!--
